@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Georgia;
+}
+
+body{
+  background-image: url("img.css/plano de fundo2.jpg");
+  background-size: 100% 165%;
+  background-repeat: no-repeat;
+}
+
+span1{
+  position: relative;
+  font-size: 20px;
+  left: 10%;
+  margin-top: 15px;
+  display: inline-block;
+}
+  
+span2{
+  position: absolute;
+  font-size: 20px;
+  left: 20%;
+  margin-top: 15px;
+}
+
+span3{
+  position: absolute;
+  font-size: 20px;
+  left: 31%;
+  margin-top: 15px;
+}
+
+#sobreMim{
+  text-decoration: none;
+  color: black;
+}
+
+#contato{
+  text-decoration: none;
+  color: black;
+}
+
+#curriculo{
+  text-decoration: none;
+  color: black;
+}
+  
+#img{
+  position: absolute;
+  width: 180px; 
+  height: 180px;
+  left: 43%;
+  top: 20%;
+  border-radius: 90px;
+}
+
+#fonte{
+  font-size: 50px;
+  text-align: center;
+  margin-top: 20%;
+}
+
+#fonte2{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+
+  

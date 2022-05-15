@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Georgia;
+}
+
+body{
+  background-image: url("img.css/plano de fundo6.webp");
+  background-size: 100% 110%;
+  background-repeat: no-repeat;
+}
+  
+h2{
+  position: relative;
+  background-color: white;
+  border-radius: 40px;
+  height: 72px;
+  text-align: center;
+  padding-top: 33px;
+}
+
+#sobreMim{
+  position: absolute;
+  top: 33px;
+  left: 42%;
+}
+
+#contatos{
+  margin-top: 20px;
+  text-align: center;
+}
+
+p{
+  position: relative;
+  margin: 50px;
+  margin-top: 20px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+#parag{
+  position: absolute;
+  margin-left: 70px;
+  bottom: 30%;
+  font-size: 20px;
+  text-align: justify;
+}
+
+button{
+  border-radius: 80px;
+  background-color: white;
+  width: 70px;
+  height: 30px;
+  margin-left: 48%;
+  margin-top: 20%;
+  border: none;
+}

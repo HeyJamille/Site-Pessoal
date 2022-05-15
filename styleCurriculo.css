@@ -1,0 +1,73 @@
+body{
+  background-color: #ffd6dd;
+}
+
+#corFonte{
+  background-color: white;
+  margin-top: 11%;
+}
+
+#corFonte2{
+  background-color: white;
+  margin: 5%;
+  width: 45%;
+  text-align: center;
+  display: inline-block;
+}
+  
+.fundo{
+  background-color: white;
+  padding: 5%;
+  padding-bottom: 1px;;
+  margin-top: 0%;
+  margin-left: 5%;
+  width: 80%;
+  text-align: center;
+}
+
+.img{
+  position: absolute;
+  left: 44%;
+  top: 4%;
+  z-index: 1;  
+}
+
+.dados{
+  position: relative;
+  margin-left: 25%;
+}
+
+.dados2{
+  position: absolute;
+  margin-left: 50%;
+  top: 37%;
+}
+
+.tituloTabela2{
+  position: absolute;
+  margin-left: 20%;
+  top: 59%;
+  width: 102%;
+}
+
+.tabela{
+  position: relative;
+  margin-top: 0%;
+  margin-right: 45%;
+}
+
+.tabela2{
+  position: absolute;
+  margin-left: 65%;
+  top: 92%;
+}
+
+button{
+  border-radius: 80px;
+  background-color: #ffffff;
+  width: 70px;
+  height: 30px;
+  margin-left: 48%;
+  margin-top: 5%;
+  border: none;
+}
